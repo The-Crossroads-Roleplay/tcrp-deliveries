@@ -6,4 +6,4 @@ Converted from @ VorpCore --> https://discord.gg/8uxkMyGJ2a
 * Added Propsets For Delvieries
 * Added New Draw3dText
 
-You are allowed to modify everything besides the resource name.
+Feel free to edit
